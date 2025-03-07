@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel Webpage</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+
+        <style>
+            
+        </style>
+    </head>
+  
+    <body>
+        <p class="centertext">Test123. ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
+        
+        <p>Test to the right</p>
+
+        <h1 class="headings">Hello</h1>
+
+        <p class="centertext">Hallo, ich heiß Herr Etwas und ich bin ein hund.<br>Hello, my name is Mr. Something and I am a dog.</p>
+ 
+    </body>
