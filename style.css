@@ -4,8 +4,12 @@
         <meta charset="utf-8">
         <title>Project: Travel Webpage</title>
         <style>
-                body {
+                .centertext {
                 text-align: center;
+            }
+
+                .subtitle {
+                font-weight: bold;
             }
         </style>
     </head>
