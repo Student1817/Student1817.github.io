@@ -4,6 +4,10 @@
         <meta charset="utf-8">
         <title>Project: Travel Webpage</title>
         <style>
+                body {
+                    margin-left: 30%;
+                    margin-right: 30%
+                }
                 .centertext {
                 text-align: center;
             }
