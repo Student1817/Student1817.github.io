@@ -21,7 +21,10 @@
                 border-style: hidden;
             }
                 .centerimg {
-                    text-align: center;
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 70%;
            }
                 p {
                     font-size: 1.5em;
