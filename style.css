@@ -18,5 +18,10 @@
                 .indenttext {
                     text-indent: 2em;
             }
+
+            div {
+                margin-left: 10%;
+                margin-right: 10%;
+            }
         </style>
     </head>
