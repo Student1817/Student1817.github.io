@@ -50,5 +50,8 @@
                 body {
                     background-color: rgba(100, 140, 170, 0.49)
                 }
+                figure {
+                    text-align: center;
+                }
         </style>
     </head>
