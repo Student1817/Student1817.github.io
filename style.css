@@ -40,6 +40,8 @@
                 h3 {
                     font-size: 1.8em:
                 }
-
+                .floaterR {
+                    float: right;
+                }
         </style>
     </head>
