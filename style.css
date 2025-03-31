@@ -50,10 +50,12 @@
                 body {
                     background-color: rgba(100, 140, 170, 0.49)
                 }
-                .regfig {
-                    margin-left: auto;
-                    margin-right: auto;
-                    width: 60%;
+                figure {
+                    display: block;
+  			        margin-left: auto;
+ 		 	        margin-right: auto;
+                    width="50%"
+                }
                 }
                 figcaption {
                     text-align: center;
