@@ -58,5 +58,10 @@
                 figcaption {
                     text-align: center;
                 }
+                 .smallfig {
+                    margin-left: auto;
+                    margin-right: auto;
+                    width: 40%;
+                }
         </style>
     </head>
