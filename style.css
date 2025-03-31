@@ -50,20 +50,12 @@
                 body {
                     background-color: rgba(100, 140, 170, 0.49)
                 }
-                img {
-                    display: block;
-  			        margin-left: auto;
- 		 	        margin-right: auto;
-                    width: 70%
-                }
-                }
+               figure {
+                    margin: auto;
+                    width: 50%
+               }
                 figcaption {
                     text-align: center;
-                }
-                 .smallfig {
-                    margin-left: auto;
-                    margin-right: auto;
-                    width: 70%;
                 }
         </style>
     </head>
